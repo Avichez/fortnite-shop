@@ -1,4 +1,4 @@
-Check here - https://avichez.github.io/fortnite-shop/
+Check site [HERE](https://avichez.github.io/fortnite-shop/)
 
 ## Available Scripts
 
